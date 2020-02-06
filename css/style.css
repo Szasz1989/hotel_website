@@ -267,6 +267,10 @@ p {
   border-color: #b52a2a;
 }
 
+#contact-form button {
+  margin-top: 10px;
+}
+
 /* Footer */
 #main-footer {
   text-align: center;
